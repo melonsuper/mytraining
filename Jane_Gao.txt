@@ -1,2 +1,3 @@
 Hi, my name is Jinfang (Jane) Gao. I work at UQ as a researcher. My background is a bit complicated, bachelor in mathematics, master degree in numerical modeling and then a doctoral degree in geophysics. Now, part of my work involves software development (including parallel computing and numerical modeling) in coal mining and petroleum engineering.
 And I'm interested in learning new stuff, especially software development, investment, and entrepreneurship. I went to the Software Carpentry Training in September this year, and I hope to be an instructor and help others as well.  
+aaa
